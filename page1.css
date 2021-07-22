@@ -97,6 +97,23 @@ a{
 .hero.cta:hover{
     color: white;
     background-color: crimson;
+}
+.services{}
+.services.services{
+    flex-direction:column;
+    text-align: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+.services.services-title{
+    font-size: 4rem;
+    font-weight: 300px;
+    color:black;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2rem;
+    text-align: center;
 
 }
 @keyframes text_revel_box{
